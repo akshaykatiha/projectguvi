@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-int n;
+int n=0;
 scanf("%d",&n);//Enter number
 n%2==0 ? printf("Even"):printf("Odd");
 return 0;
