@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-int yr;
+int yr=0;
 scanf("%d",&yr);
 if(yr%400==0)
 {
